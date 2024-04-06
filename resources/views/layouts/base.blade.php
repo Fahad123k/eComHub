@@ -117,7 +117,7 @@
                             <div class="menu-left">
                                 <div class="brand-logo">
                                     <a href="index.htm">
-                                        <img src="{{asset('')}}" class="h-logo img-fluid blur-up lazyload"
+                                        <img src="{{asset('assets/images/logo.png')}}" class="h-logo img-fluid blur-up lazyload"
                                             alt="logo">
                                     </a>
                                 </div>
@@ -224,7 +224,7 @@
                         <div class="footer-contact">
                             <div class="brand-logo">
                                 <a href="index.htm" class="footer-logo float-start">
-                                    <img src="{{asset('')}}" class="f-logo img-fluid blur-up lazyload"
+                                    <img src="{{asset('assets/images/logo.png')}}" class="f-logo img-fluid blur-up lazyload"
                                         alt="logo">
                                 </a>
                             </div>
